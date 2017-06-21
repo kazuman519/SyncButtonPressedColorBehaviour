@@ -1,0 +1,5 @@
+/[Ll]ibrary/
+/[Tt]emp/
+
+*.sln
+*.userprefs
