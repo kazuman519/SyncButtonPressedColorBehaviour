@@ -3,3 +3,8 @@
 
 *.sln
 *.userprefs
+
+# Rider
+Assembly-CSharp.csproj
+Assembly-CSharp-firstpass.csproj
+Assembly-CSharp-Editor-firstpass.csproj
